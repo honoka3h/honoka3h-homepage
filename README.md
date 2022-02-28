@@ -1,4 +1,4 @@
-이 웹사이트는 초보적인초보의 공식 웹사이트입니다.
+이 웹사이트는 초보적인초보의 공식 웹사이트입니다. https://honoka3h.github.io/honoka3h-homepage/Index.html
 
 # 소개
 유튜브 근황 및 자바스크립트 공부용으로 만들었으며 bootstap을 이용하였습니다.
